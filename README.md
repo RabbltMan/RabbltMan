@@ -1,16 +1,25 @@
-### Hi there 👋
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=RabbltMan&theme=dracula" alt="github stats">](#RabbltMan "github stats")
+# RabbltMan
+```python
+for day in life:
+    if (not workload.isUrgent()):
+        workload.workTomorrow()
+```
 
-<!--
-**RabbltMan/RabbltMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## RabbltMan 是什么？
 
-Here are some ideas to get you started:
+- [人类](https://en.wiktionary.org/wiki/human_being)
+- [Minecraft](https://www.minecraft.net/) 玩家(```RabbltMan```) & [Fabric](https://fabricmc.net/) Mod for Minecraft Java Edition 开发者
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  [![head](https://mc-heads.net/head/RabbltMan)]()
+
+## RabbltMan 用什么？
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbltMan&theme=dracula" alt="github stats">](#RabbltMan "top langs")
+- 熟悉 [![Python](https://img.shields.io/badge/-Python-111?logo=python&logoColor=3776AB)](https://www.python.org/)
+
+- 了解 [![Java](https://img.shields.io/badge/-Java-111?logo=openjdk&logoColor=fff)](https://www.java.com/) ![C](https://img.shields.io/badge/-C-111?logo=C&logoColor=A8B9CC) [![React](https://img.shields.io/badge/-React-111?logo=React&logoColor=61DAFB)](https://react.dev)
+  
+- IDE [![IDEA](https://img.shields.io/badge/-IDEA-111?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/) [![Jupyter](https://img.shields.io/badge/-Jupyter-111?logo=jupyter&logoColor=F37626)](https://www.python.org/)
+  
+- 工具 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/) [![Git](https://img.shields.io/badge/-Git-111?logo=git&logoColor=fff)](https://git-scm.com/) [![Anaconda](https://img.shields.io/badge/-Anaconda-111?logo=anaconda&logoColor=44A833)](https://www.anaconda.com/) [![PyPI](https://img.shields.io/badge/-PyPI-111?logo=pypi&logoColor=3775A9)](https://pypi.org/)
