@@ -20,6 +20,8 @@ for day in life:
 
 - 了解 [![Java](https://img.shields.io/badge/-Java-111?logo=openjdk&logoColor=fff)](https://www.java.com/) ![C](https://img.shields.io/badge/-C-111?logo=C&logoColor=A8B9CC) [![React](https://img.shields.io/badge/-React-111?logo=React&logoColor=61DAFB)](https://react.dev)
   
-- IDE [![IDEA](https://img.shields.io/badge/-IDEA-111?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/) [![Jupyter](https://img.shields.io/badge/-Jupyter-111?logo=jupyter&logoColor=F37626)](https://www.python.org/)
+- IDE [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/) [![IDEA](https://img.shields.io/badge/-IDEA-111?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
   
-- 工具 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/) [![Git](https://img.shields.io/badge/-Git-111?logo=git&logoColor=fff)](https://git-scm.com/) [![Anaconda](https://img.shields.io/badge/-Anaconda-111?logo=anaconda&logoColor=44A833)](https://www.anaconda.com/) [![PyPI](https://img.shields.io/badge/-PyPI-111?logo=pypi&logoColor=3775A9)](https://pypi.org/)
+- 工具 [![Git](https://img.shields.io/badge/-Git-111?logo=git&logoColor=fff)](https://git-scm.com/) [![Anaconda](https://img.shields.io/badge/-Anaconda-111?logo=anaconda&logoColor=44A833)](https://www.anaconda.com/) [![PyPI](https://img.shields.io/badge/-PyPI-111?logo=pypi&logoColor=3775A9)](https://pypi.org/)
+
+- 平台 [![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=fff)](https://ubuntu.com/)
